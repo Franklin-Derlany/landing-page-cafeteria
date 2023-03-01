@@ -35,8 +35,8 @@
     }
 
     .ladrilho .pequeno,
-    .ladrilho .pequeno .grao {
-    width: 50%
+    .ladrilho .pequeno.grao{
+        width: 50%;
     }   
 
     .rodape {
